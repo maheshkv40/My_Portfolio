@@ -24,3 +24,7 @@ body{
     font-size: 5em;
     font-weight: 500;
 }
+.card-text{
+    text-align: justify;
+    font-size: 14px;
+}
