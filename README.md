@@ -2,8 +2,9 @@
 
 Hello everyone
 <br>
-My name is KV mahesh. this is my personal website.
+My name is KV mahesh. This is my personal website.
 
+## Let us support open-source 
 ## To contribute
 
 * clone the repository
